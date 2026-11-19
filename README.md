@@ -118,6 +118,16 @@ huge headline prize with thousands of entries. My own first paid place came
 from exactly that kind of quiet forecasting bounty, not from the biggest pot
 on the board.
 
+A quick way to judge a candidate bounty:
+
+| Signal | Good first target | Think twice |
+| --- | --- | --- |
+| Field size vs paid places | 40 paid places, a few hundred entries | 3 paid places, 10,000 entries |
+| Judging | Automated score, or verified counts | A single subjective pick from a giant field |
+| Requirements | Kit, GitHub, Node — things you already have | Paid software, outside accounts, real-world errands |
+| Deadline | Days away; time to fix a rejected entry | Closing within the hour |
+| Entry fee | $0 | Any fee — it joins the pot, but it is still your money at risk |
+
 ## Step 4 — Get the kit
 
 Every bounty ships a *kit*: the rules word-for-word, any data or starter
@@ -176,6 +186,19 @@ daily entry limit.** The local check runs the same gates the server will, so
 whatever it flags — a missing badge line, a README no session wrote, a
 repository owned by the wrong account — is free to fix now and expensive to
 learn about later.
+
+The gates you will meet most often, in plain terms:
+
+- **Thinking / transcripts** — the uploaded sessions really contain the work
+  that produced these files, started after the opening, with the entry file
+  written or revised across at least two passes.
+- **Repository** — public, yours (for guide bounties: owned by the GitHub
+  account linked to your make.fun account), created after the opening,
+  carrying an OSI-approved license.
+- **README** — where the bounty requires one: at the repository root, with
+  the three make.fun badge lines for *your* repository, placeholders filled.
+- **Signature & quota** — the entry is signed by a wallet on your account,
+  and you are inside the day's entry limit for that bounty.
 
 ## Step 7 — Follow the result, fix, resubmit
 
